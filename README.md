@@ -15,9 +15,11 @@ Project-T.O.M is designed to provide a cross streaming-platform recommendation t
 * T.O.M will provide recommendations on what to watch on platform X based on:
   * What a user watches platform X and other platforms
   * What users watch on platform X and other platforms
+
 * Recommendations for what to watch on platform X can be filtered by:
   * Genre
   * TV or Movie
+
 * Users can login to their T.O.M profile using any of their associated platforms that they registered with in the first place.
 * In their T.O.M profile, users can look at general recommendations on any platform, based on their viewing patterns
 * T.O.M will also provide "Shows on other Platforms You Might Like" for each user within their profile page
